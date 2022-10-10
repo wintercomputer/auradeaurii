@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(../images/DSC04132.JPG);
+    background-size: 100%;
+}
+
+main{
+    width: 75%;
+    margin: auto;
+    font-family: 'Poppins', sans-serif;
+}
+
